@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "dreampulse"
+    }
+  },
+  "defaultProject": "dreampulse",
+  "cli": {
+    "analytics": false
+  }
 }
